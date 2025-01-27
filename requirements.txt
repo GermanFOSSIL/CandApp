@@ -1,0 +1,6 @@
+streamlit
+fpdf
+qrcode
+pandas
+plotly
+Pillow
